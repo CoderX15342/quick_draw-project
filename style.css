@@ -1,0 +1,21 @@
+body{
+    background-color: #ff6b6b;
+}
+
+#Score{
+    font-size: 25px;
+    margin-left:80px;
+    float:left;
+}
+
+#Timer{
+    font-size: 25px;
+    margin-right:80px;
+    float:right;
+}
+
+#STBD{
+    color: rgb(104, 217, 255);
+    font-weight:bold;
+    font-size:20px;
+}
